@@ -1,0 +1,136 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "altRelative": 50,
+        "altAbsolute": 50,
+        "altGround": 0,
+        "type": 1,
+        "totalNumber": 0,
+        "distanceTraveled": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.696213708911273,
+          40.09171401782572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altRelative": 120,
+        "altAbsolute": 120,
+        "altGround": 608.9392426957197,
+        "type": 5,
+        "totalNumber": 1,
+        "webNumber": 1,
+        "distanceTraveled": 642.0612384292137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6899155737651634,
+          40.09489642322725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altRelative": 120,
+        "altAbsolute": 120,
+        "altGround": 607.5424168086621,
+        "type": 3,
+        "shootDistance": "23.40",
+        "totalNumber": 2,
+        "distanceTraveled": 762.0612384313996
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.689569368376713,
+          40.09385023917004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altRelative": 120,
+        "altAbsolute": 120,
+        "altGround": 606.9174234399303,
+        "type": 5,
+        "totalNumber": 3,
+        "webNumber": 2,
+        "distanceTraveled": 1270.9368503460598
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.68810126195694,
+          40.089413766650615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altRelative": 120,
+        "altAbsolute": 120,
+        "altGround": 597.8701405616695,
+        "type": 4,
+        "shootDistance": "23.40",
+        "totalNumber": 4,
+        "distanceTraveled": 1869.770516762421
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.694110220394611,
+          40.08660862723597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altRelative": 120,
+        "altAbsolute": 120,
+        "altGround": 596.8391497915641,
+        "type": 5,
+        "totalNumber": 5,
+        "webNumber": 3,
+        "distanceTraveled": 1989.7705167657944
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.6953143428503794,
+          40.08604653152316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "altRelative": 0,
+        "altAbsolute": 0,
+        "altGround": 0,
+        "type": 2,
+        "totalNumber": 6,
+        "distanceTraveled": 2645.5226376079013
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.695333678001248,
+          40.09194383347542
+        ]
+      }
+    }
+  ]
+}
